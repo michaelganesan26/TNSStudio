@@ -1,0 +1,4 @@
+#Fri Nov 09 18:36:36 EST 2018
+base.0=/home/michael/NativeScript/TNSStudio/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
